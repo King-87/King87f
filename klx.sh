@@ -28,7 +28,7 @@ toilet -f big -F gay wong mumet
 echo $green "stabil jaringan by wong mumet"
 sleep 2
 ping -s1000 1.1.1.1
-if
+fi
 
 if [ $mas = 0 ] || [ $mas = 0 ]
 then
@@ -38,4 +38,4 @@ figlet "dadaa"
 echo $white"To be continued"
 sleep 3
 exit
-if
+fi
